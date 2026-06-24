@@ -11,9 +11,12 @@ El archivo Andes_Retail_Group_2024_2025.xlsx contiene transacciones de ventas de
 Cada fila representa un pedido individual, incluyendo información del cliente, ubicación geográfica, categoría de producto y métricas financieras como ingresos y costo.
 
 📂 Contenido del repositorio
-S10 Proyecto_VersionEstudiante_Desempeno_Comercial.ipynb
-PROYECTO 10 LIZETH RINCON.pbix
+
+- S10 Proyecto_VersionEstudiante_Desempeno_Comercial.ipynb
+- PROYECTO 10 LIZETH RINCON.pbix
+
 🧠 Objetivo del análisis
+
 La dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025.
 Actualmente, la información está dispersa en datos transaccionales y no existe una visión clara que permita responder preguntas estratégicas sobre ventas, rentabilidad y comportamiento de clientes. 
 
